@@ -1,28 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
-    html {
-        background-color: #2D3030;
-    }
-    body {
-       background-color: #24252A;
-    }
-    h1 {
-        font-family: quicksand;
-        color: white;
-        font-size: 75px;
-        text-align: center;
-    }
-    p {
-        font-family: quicksand;
-        color: white;
-        font-size: 25px;
-    }
-    title {
-        font-family: quicksand;
-    }
-    .img-fond {
-        width: 30cm;
-        height: 8cm;
-        background-color: #2F4F4F;
-        border-radius: 10%;
-    }
+body {
+    background-color: #24252A;
+}
+
+h1 {
+    font-family: quicksand;
+    color: white;
+    font-size: 75px;
+    text-align: center;
+}
+
+p {
+    font-family: quicksand;
+    color: white;
+    font-size: 18px;
+}
+
+title {
+    font-family: quicksand;
+}
+
+.img-fond {
+    width: 30cm;
+    height: 8cm;
+    background-color: #2F4F4F;
+    border-radius: 10%;
+}
