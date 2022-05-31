@@ -4,17 +4,21 @@ body {
     background-color: #24252A;
 }
 
+footer {
+    background-color: #1a1a1a
+}
+
 h1 {
     font-family: quicksand;
     color: white;
-    font-size: 25px;
+    font-size: 75px;
     text-align: center;
 }
 
 p {
     font-family: quicksand;
     color: white;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 title {
