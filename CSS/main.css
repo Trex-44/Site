@@ -1,1 +1,27 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
 
+html {
+        background-color: #2d3030;
+    }
+    h1 {
+        font-family: quicksand;
+        color: white;
+        font-size: 75px;
+        text-align: center;
+    }
+    p {
+        font-family: quicksand;
+        color: white;
+        font-size: 25px;
+    }
+    title {
+        font-family: quicksand;
+    }
+    .img-fond {
+        width: 30cm;
+        height: 8cm;
+        background-color: #2F4F4F;
+        border-radius: 10%;
+    }
