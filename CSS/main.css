@@ -3,22 +3,22 @@
 body {
     color: black;
     background-color: #24252A;
-    background-image: url(https://i0.wp.com/xboxera.com/wp-content/uploads/2020/08/XGPgamescom_inline1.jpg?fit=1200%2C675&ssl=1);
 }
 
 footer {
-    color: white;
     background-color: #1a1a1a
 }
 
 h1 {
     font-family: quicksand;
+    color: white;
     font-size: 25px;
     text-align: center;
 }
 
 p {
     font-family: quicksand;
+    color: white;
     font-size: 18px;
 }
 
