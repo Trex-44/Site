@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
 body {
-    background: src="https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Discord_Nitro_2560x1440_withlogo_2560x1440-944994658df3b04d0c4940be832da19e";
+    color: black;
+    background-color: #24252A;
+    background-image: url(https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Discord_Nitro_2560x1440_withlogo_2560x1440-944994658df3b04d0c4940be832da19e);
 }
 
 footer {
-    background-color: #1a1a1a;
+    background-color: #1a1a1a
 }
 
 h1 {
