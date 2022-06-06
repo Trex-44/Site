@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500');
 
 body {
     color: black;
@@ -6,7 +7,11 @@ body {
 }
 
 footer {
-    background-color: #1a1a1a
+    background-color: #1a1a1a;
+    font-family: "Montserrat", sans-serif;
+    padding: 25px 10px;
+    color: #828282;
+    margin-top: 100px;
 }
 
 h1 {
